@@ -71,8 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> c8b98af (First Commit)
-=======
-# Cohesive-AI-Landing-Page_React-JS
-Cohesive AI landing page design using React JS, Material UI and Tailwind CSS
->>>>>>> dd2f299dba9152c50ba1907cdfef6246ad40ebb9
