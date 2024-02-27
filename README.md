@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Cohesive-AI-Landing-Page_React-JS
 Cohesive AI landing page design using React JS, Material UI and Tailwind CSS
 =======
